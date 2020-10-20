@@ -1,3 +1,4 @@
 {
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "python.pythonPath": "c:\\Users\\JGimenez\\Desktop\\APC_Concrete_MPa\\venv\\Scripts\\python.exe"
 }
